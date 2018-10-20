@@ -1,0 +1,23 @@
+<head>
+    <meta charset ="utf-g">
+    <title>
+        this is new page
+    </title>
+    <style>
+    h2 {
+        color: rgb(1,0,0);
+    }
+    
+    </style>
+</head>
+<body>
+    <h1>
+        Heading
+    </h1>
+    <h2>
+        small Heading
+    </h2>
+    <p>
+        iam a computer engineering     this is amazing
+    </p>
+</body>
